@@ -18,7 +18,7 @@ An unofficial, community-driven application for AUPP (American University of Phn
 - 📊 **Academic Dashboard**: Track courses, credits, and academic progress *(configurable)*
 - 🔍 **Quick Search & Filters**: Find courses, departments, and resources instantly
 - 🌙 **Dark/Light Mode**: Comfortable UI with adaptive theming
-- 🌐 **Cross-Platform Ready**: Optimized for Android, iOS, Web, Windows, macOS, and Linux
+- 🌐 **Cross-Platform Ready**: Optimized for Android, iOS, Web, Windows, macOS, and Linux.
 
 ---
 
